@@ -2,7 +2,6 @@
 
 ###
 
-<p align="left">My name is Naifer Rosado and I'm from Dominican Republic</p>
 
 ###
 
@@ -12,8 +11,10 @@
 
 ###
 
-# 💫 About Me:
-🎓 Systems Engineering student passionate about building software and solving problems.<br><br>🐍 I already work comfortably with Python, Linux, databases, and web development tools.<br><br>💡 I enjoy creating projects that challenge me and help me grow as a developer.<br><br>🚀 My goal is to become a strong full-stack developer and specialize in cybersecurity.<br><br>🎲 Fun fact: I fix bugs I wrote at 3 AM and act surprised when they work.
+# 👨🏽‍💻 About Me:
+My name is Naifer Rosado, and I’m a senior student of Computer Systems Engineering. I’m passionate about software development, problem-solving, and building useful tools. My favorite programming language is Python, and I’ve worked on several web projects using Flask and Bootstrap, as well as desktop applications with Visual Basic, C#, and other technologies. I enjoy turning ideas into functional solutions and expanding my skills through real-world projects.
+
+I’m also highly interested in cybersecurity, especially how systems, networks, and applications can be analyzed and protected. My goal is to continue growing as a developer while diving deeper into security principles and ethical hacking. I’m always open to learning, experimenting, and creating projects that push my knowledge further.
 
 
 ## 🌐 Socials:
